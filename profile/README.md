@@ -1,5 +1,5 @@
 <!-- HTML:START -->
-<img src="logo.webp" alt="HFCraft Logo" width="315" align="left">
+<img src="https://raw.githubusercontent.com/HFCraft/.github/main/profile/logo.webp" alt="HFCraft Logo" width="315" align="left">
 <div align="center">
   <!-- TITLE:START --> 
   <h1>HFCraft 👋</h1>
